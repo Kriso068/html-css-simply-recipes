@@ -1,4 +1,4 @@
-# html-css-simply-recipes-main
+# html-css-simply-recipes
 
 
 Recipe site created on the basis of HTML, CSS and a little Javascript being functional in responsive design.
